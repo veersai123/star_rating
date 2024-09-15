@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  color: white;
+}
+.app{
+  text-align: center;
+}
+button{
+  background: none;
+  border: none;
+  color: gray;
+  font-size: 4rem;
+}
+span.on{
+  color: yellow;
+}
+span.off{
+  color: gray;
+}
